@@ -1,0 +1,77 @@
+.outer-footer {
+  color: rgb(150, 148, 148);
+  background-color: #4111;
+  /* display: block; */
+}
+.outer-inner-footer {
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+.outer-inner-footer a button {
+  padding: 10px 40px;
+  background-color: red;
+  color: white;
+  border: 5px solid red;
+  font-size: 18px;
+  border-radius: 5px;
+}
+.outer-inner-footer p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  font-size: 1.2em;
+}
+
+.footer-date {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 15%;
+}
+.footer-date ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 12vh;
+  list-style: none;
+}
+.footer-date ul li {
+  cursor: pointer;
+}
+.footer-inner-class {
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 15%;
+}
+.lastest-footer p {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  border: #fff 1px solid;
+  width: 110px;
+  padding: 0 10px;
+}
+.copy-rigth {
+  font-size: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  
+  
+}
+.footer{
+  width: 450px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 15%;
+  margin-top: 20px ;
+  
+}
