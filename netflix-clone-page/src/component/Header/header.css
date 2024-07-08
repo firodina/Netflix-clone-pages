@@ -39,3 +39,8 @@
 .left-contaner ul li {
   margin-left: 35px;
 }
+@media (max-width: 768px) {
+  .outer-header-contaner .inner-contaner .list {
+    display: none;
+  }
+}

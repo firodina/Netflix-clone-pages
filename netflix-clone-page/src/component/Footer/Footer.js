@@ -15,7 +15,7 @@ function Footer() {
           shows, anime, award-winning Netflix originals, and more. Watch as{" "}
           <br /> much as you want, anytime you want.
         </p>
-        <a href="#" className="btn btn-get-started btn-red btn-large">
+        <a href="https://www.netflix.com/et/browse/genre/34399" className="btn btn-get-started btn-red btn-large">
           <button>Join Now</button>
         </a>
       </div>

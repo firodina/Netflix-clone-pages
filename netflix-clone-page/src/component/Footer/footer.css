@@ -1,7 +1,7 @@
 .outer-footer {
   color: rgb(150, 148, 148);
   background-color: #4111;
-  /* display: block; */
+  display: block;
 }
 .outer-inner-footer {
   align-items: center;
@@ -64,14 +64,19 @@
   margin-bottom: 10px;
   display: flex;
   justify-content: space-between;
-  
-  
+  margin : 10px 0 10px;
 }
 .footer{
-  width: 450px;
-  display: flex;
-  justify-content: space-between;
-  margin-left: 15%;
-  margin-top: 20px ;
-  
+  margin-top: 40px;
+  margin-left: 75px;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-top: 20px;
+  }
 }

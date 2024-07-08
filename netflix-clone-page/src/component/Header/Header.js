@@ -16,12 +16,11 @@ function Header() {
               <li>
                 <img src={netflixlog} alt="netflixlog" width={100} />
               </li>
-              <li>Home</li>
-              <li>TV&Show</li>
-              <li>Movies</li>
-              <li>Lastest</li>
-              <li>MyList</li>
-              <li>Browser by Languages</li>
+              <li className="list">TV&Show</li>
+              <li className="list">Movies</li>
+              <li className="list">Lastest</li>
+              <li className="list">MyList</li>
+              <li className="list">Browser by Languages</li>
             </ul>
           </div>
           <div className="left-contaner">
