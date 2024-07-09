@@ -15,3 +15,6 @@
 body{
   background: #111;
 }
+img{
+  max-width: 100%;
+}

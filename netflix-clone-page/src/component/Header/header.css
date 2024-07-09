@@ -11,6 +11,7 @@
   transition: all 0.5;
   transition-timing-function: ease-in;
   z-index: 1;
+  /* position: fixed; */
   /* background-color: black; */
 }
 .header-contaner {
