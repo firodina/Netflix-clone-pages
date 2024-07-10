@@ -3,16 +3,16 @@
   top: 0;
   display: flex;
   justify-content: center;
-  background-color: rgb(20, 20, 20);
   align-items: center;
-  /* background-color: transparent; */
+  background-color: transparent;
   height: 10vh;
   color: #fff;
   transition: all 0.5;
   transition-timing-function: ease-in;
   z-index: 1;
-  /* position: fixed; */
-  /* background-color: black; */
+  width: 100%;
+  position: fixed;
+  background-color: rgb(20, 20, 20);
 }
 .header-contaner {
   width: 100%;
@@ -40,6 +40,8 @@
 .left-contaner ul li {
   margin-left: 35px;
 }
+
+
 @media (max-width: 768px) {
   .outer-header-contaner .inner-contaner .list {
     display: none;
