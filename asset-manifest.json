@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflix-clone-pages/static/css/main.ca6c26fa.css",
+    "main.js": "/Netflix-clone-pages/static/js/main.ce30d8ea.js",
+    "static/media/Netflix-logo (2).png": "/Netflix-clone-pages/static/media/Netflix-logo (2).5d30406a80dc4c787bd3.png",
+    "index.html": "/Netflix-clone-pages/index.html",
+    "main.ca6c26fa.css.map": "/Netflix-clone-pages/static/css/main.ca6c26fa.css.map",
+    "main.ce30d8ea.js.map": "/Netflix-clone-pages/static/js/main.ce30d8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca6c26fa.css",
+    "static/js/main.ce30d8ea.js"
+  ]
+}
